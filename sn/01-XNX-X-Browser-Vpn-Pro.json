@@ -3,11 +3,11 @@
     {
      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "1044128839784379_1044129679784295",
-      "main_ads_intertitial":"1044128839784379_1044130999784163",
+      "main_ads_banner": "3092270621086555_3092271421086475",
+      "main_ads_intertitial":"3092270621086555_3092271517753132",
       "native_for_admob":"1e10a17f01720770",
-      "backup_ads_banner":"374e08015f5d89ad",
-      "backup_ads_intertitial":"f2e0e6f97f559dfb",
+      "backup_ads_banner":"e2ee1ce8a8d5a38a",
+      "backup_ads_intertitial":"776ea9c75311f9a9",
       "interval_intertitial": 0,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -16,7 +16,7 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": ""
     }
   ],
