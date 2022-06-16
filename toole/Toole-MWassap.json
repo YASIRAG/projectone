@@ -1,36 +1,28 @@
 {
   "Ads": [
     {
-      
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3396900355774255/2829365164x",
+      "main_ads_intertitial":"ca-app-pub-3396900355774255/9203201828x",
+      "main_ads_native": "ca-app-pub-3396900355774255/5263956817x",
+      "backup_ads_banner":"152dd28ed59bda3a",
+      "backup_ads_intertitial":"afdf9460438932eb",
+      "backup_ads_native":"3dc2e0e3715b043d",
       "interval_intertitial": 0,
-            
-      "select_main_ads": "",
-      "main_ads_banner": "",
-      "main_ads_intertitial":"",
-      
-      "native_for_admob":"",
-      
-      "select_backup_ads":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      
-      
-      "high_paying_keyword_1": "kredit",
-      "high_paying_keyword_2": "paypal",
-      "high_paying_keyword_3": "bank",
-      "high_paying_keyword_4": "internet",
-      "high_paying_keyword_5": "asuransi",
-
-     
-      "status_app": "1",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
       "link_redirect": ""
     }
   ],
   "More":
   [
-      
+
   ]
 }
