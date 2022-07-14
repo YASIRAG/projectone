@@ -1,0 +1,28 @@
+{
+  "Ads": [
+    {
+     "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "152dd28ed59bda3a",
+      "main_ads_intertitial":"afdf9460438932eb",
+      "main_ads_native": "3dc2e0e3715b043d",
+      "backup_ads_banner":"76bc5cb2f903ae08",
+      "backup_ads_intertitial":"9c03cfcefebdeba6",
+      "backup_ads_native":"76bc5cb2f903ae08",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "1",
+      "link_redirect": ""
+    }
+  ],
+  "More":
+  [
+
+  ]
+}
