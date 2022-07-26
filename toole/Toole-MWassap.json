@@ -10,7 +10,7 @@
       "backup_ads_banner":"76bc5cb2f903ae08",
       "backup_ads_intertitial":"9c03cfcefebdeba6",
       "backup_ads_native":"76bc5cb2f903ae08",
-      "interval_intertitial": 5,
+      "interval_intertitial": 10,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
