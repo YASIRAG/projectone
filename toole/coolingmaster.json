@@ -4,15 +4,15 @@
      "select_main_ads": "ADMOB",
       "select_backup_ads":"FACEBOOK",
       
-      "main_ads_banner": "ca-app-pub-4356520407419397/5263258053x",
-      "main_ads_intertitial":"ca-app-pub-4356520407419397/6384768033x",
+      "main_ads_banner": "ca-app-pub-4356520407419397/5263258053",
+      "main_ads_intertitial":"ca-app-pub-4356520407419397/6384768033",
    
       "admob_open_ads": "",
       
       "backup_ads_banner":"XXXX",
       "backup_ads_intertitial":"XXXX",
  
-      "interval_intertitial": 30,
+      "interval_intertitial": 3,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -23,7 +23,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": ""
     }
   ],
