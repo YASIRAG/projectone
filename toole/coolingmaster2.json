@@ -12,7 +12,7 @@
       "backup_ads_banner":"6f2d26181a8a7fe6",
       "backup_ads_intertitial":"5d842ef8324161cd",
  
-      "interval_intertitial": 300,
+      "interval_intertitial": 2,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -23,7 +23,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": ""
     }
   ],
