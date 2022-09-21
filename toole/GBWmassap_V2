@@ -1,25 +1,32 @@
 {
   "Ads": [
     {
-     "select_main_ads": "ADMOB",
+     "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3396900355774255/5215068935",
-      "main_ads_intertitial":"ca-app-pub-3396900355774255/1275823928",
-      "main_ads_native": "ca-app-pub-3396900355774255/9267910309",
-      "admob_open_ads": "ca-app-pub-3396900355774255/6516789738",
+      
+      "main_ads_banner": "36819f5b4c506694",
+      "main_ads_intertitial":"74057dfe34389a74",
+      "main_ads_native": "2706365a9ee484e1",
+      
+      "admob_open_ads": "ca-app-pub-5641235592631921/9012498046",
+      
       "backup_ads_banner":"76bc5cb2f903ae08",
       "backup_ads_intertitial":"9c03cfcefebdeba6",
       "backup_ads_native":"76bc5cb2f903ae08",
-      "interval_intertitial": 0,
+      
+      "interval_intertitial": 3,
+      
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      
+      "high_paying_keyword_1": "credit",
+      "high_paying_keyword_2": "bank",
+      "high_paying_keyword_3": "pinjol",
+      "high_paying_keyword_4": "bunga",
+      "high_paying_keyword_5": "debit",
+      
       "status_app": "1",
-      "link_redirect": "http://www.tipsperawatanbayi.com/p/cara-menggunakan-gb-wa-mod.html"
+      "link_redirect": ""
     }
   ],
   "More":
