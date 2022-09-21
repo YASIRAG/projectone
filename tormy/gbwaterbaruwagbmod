@@ -1,28 +1,29 @@
 {
   "Ads": [
     {
-     "select_main_ads": "FACEBOOK",
+     "select_main_ads": "APPLOVIN-D",
       "select_backup_ads":"APPLOVIN-M",
       
-      "main_ads_banner": "641763910584551_641764437251165",
-      "main_ads_intertitial":"641763910584551_641764583917817",
-      "main_ads_native": "641763910584551_641764497251159",
+      "main_ads_banner": "0ff1b08557b672cd",
+      "main_ads_intertitial":"d2db51bef1fca0e4",
+      "main_ads_native": "236e53fc0ff1fa6b",
+      
       "admob_open_ads": "ca-app-pub-5641235592631921/9012498046",
       
-      "backup_ads_banner":"0ff1b08557b672cd",
-      "backup_ads_intertitial":"d2db51bef1fca0e4",
-      "backup_ads_native":"236e53fc0ff1fa6b",
+      "backup_ads_banner":"76bc5cb2f903ae08",
+      "backup_ads_intertitial":"9c03cfcefebdeba6",
+      "backup_ads_native":"76bc5cb2f903ae08",
       
-      "interval_intertitial": 10,
+      "interval_intertitial": 3,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "credit",
+      "high_paying_keyword_2": "bank",
+      "high_paying_keyword_3": "pinjol",
+      "high_paying_keyword_4": "bunga",
+      "high_paying_keyword_5": "debit",
       
       "status_app": "0",
       "link_redirect": ""
