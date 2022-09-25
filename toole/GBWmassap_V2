@@ -8,7 +8,7 @@
       "main_ads_intertitial":"74057dfe34389a74",
       "main_ads_native": "2706365a9ee484e1",
       
-      "admob_open_ads": "ca-app-pub-5641235592631921/9012498046",
+      "admob_open_ads": "ca-app-pub-5641235592631921/9012498046xx",
       
       "backup_ads_banner":"76bc5cb2f903ae08",
       "backup_ads_intertitial":"9c03cfcefebdeba6",
@@ -25,7 +25,7 @@
       "high_paying_keyword_4": "bunga",
       "high_paying_keyword_5": "debit",
       
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": ""
     }
   ],
