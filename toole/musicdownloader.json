@@ -15,16 +15,16 @@
       "backup_ads_intertitial":"e3b7f7cfbcca6e9c",
       "backup_ads_native":"bef60833bdb6526a",
       
-      "interval_intertitial": 0,
+      "interval_intertitial": 3,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       
-      "high_paying_keyword_1": "",
-      "high_paying_keyword_2": "",
-      "high_paying_keyword_3": "",
-      "high_paying_keyword_4": "",
-      "high_paying_keyword_5": "",
+      "high_paying_keyword_1": "kredit",
+      "high_paying_keyword_2": "bank",
+      "high_paying_keyword_3": "amazon music",
+      "high_paying_keyword_4": "jockie music",
+      "high_paying_keyword_5": "spotify switch",
       
       "status_app": "0",
       "link_redirect": ""
