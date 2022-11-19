@@ -17,7 +17,7 @@
       "backup_ads_native":"ca-app-pub-3396900355774255/2962321329",
       "backup_ads_rewards":"ca-app-pub-3396900355774255/3526688252",
       
-      "interval_intertitial": 2,
+      "interval_intertitial": 3,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
