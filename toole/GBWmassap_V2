@@ -14,7 +14,7 @@
       "backup_ads_intertitial":"74057dfe34389a74",
       "backup_ads_native":"2706365a9ee484e1",
       
-      "interval_intertitial": 0,
+      "interval_intertitial": 1000,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
