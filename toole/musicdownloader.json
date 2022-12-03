@@ -12,10 +12,10 @@
       "admob_open_ads": "ca-app-pub-3940256099942544/3419835294x",
       "switch_open_ads":"1",
       
-      "backup_ads_banner":"ca-app-pub-3396900355774255/9527729679",
-      "backup_ads_intertitial":"ca-app-pub-3396900355774255/6901566339",
-      "backup_ads_native":"ca-app-pub-3396900355774255/2962321329",
-      "backup_ads_rewards":"ca-app-pub-3396900355774255/3526688252",
+      "backup_ads_banner":"ca-app-pub-339x",
+      "backup_ads_intertitial":"ca-app-pub-339690x9",
+      "backup_ads_native":"ca-app-pub-x29",
+      "backup_ads_rewards":"ca-app-pub-3396x52",
       
       "interval_intertitial": 3,
       
@@ -28,7 +28,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       
-      "status_app": "0",
+      "status_app": "1",
       "link_redirect": ""
     }
   ],
