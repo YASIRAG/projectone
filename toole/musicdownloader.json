@@ -17,7 +17,7 @@
       "backup_ads_native":"ca-app-pub-x29",
       "backup_ads_rewards":"ca-app-pub-3396x52",
       
-      "interval_intertitial": 3,
+      "interval_intertitial": 300,
       
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
