@@ -8,11 +8,11 @@
       "main_ads_native": "236e53fc0ff1fa6b",
       "main_ads_intertitial":"d2db51bef1fca0e4",
      
-      "admob_open_ads": "ca-app-pub-3396900355774255/9976085144x",
+      "admob_open_ads": "ca-app-pub-3396900355774255/9976085144",
       
-      "backup_ads_banner":"ca-app-pub-3396900355774255/5934449114x",
-      "backup_ads_native":"ca-app-pub-3396900355774255/9745454197x",
-      "backup_ads_intertitial":"ca-app-pub-3396900355774255/5742877420x",
+      "backup_ads_banner":"ca-app-pub-3396900355774255/5934449114",
+      "backup_ads_native":"ca-app-pub-3396900355774255/9745454197",
+      "backup_ads_intertitial":"ca-app-pub-3396900355774255/5742877420",
      
       
       "interval_intertitial": 20,
