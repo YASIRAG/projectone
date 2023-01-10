@@ -19,7 +19,7 @@
       "open_ads_alien":"1",
       "switch_open_ads":"2",
       
-      "interval_intertitial": 0,
+      "interval_intertitial": 5,
       
       "initialize_sdk":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
       "initialize_sdk_backup_ads":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
