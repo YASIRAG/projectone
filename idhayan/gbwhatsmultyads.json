@@ -19,7 +19,7 @@
       "open_ads_alien":"1",
       "switch_open_ads":"1",
       
-      "interval_intertitial": 50,
+      "interval_intertitial": 5,
       
       "initialize_sdk":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
       "initialize_sdk_backup_ads":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
@@ -30,7 +30,7 @@
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
       
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://"
     }
   ],
