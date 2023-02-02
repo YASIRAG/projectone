@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-    "select_main_ads":"FACEBOOK",
+    "select_main_ads":"ADMOB",
       "select_backup_ads":"APPLOVIN-M",
       
-      "main_ads_banner":"490957343192096_490962009858296",
-      "main_ads_intertitial":"490957343192096_490962073191623",
-      "main_ads_natives":"490957343192096_490963256524838",
-      "main_ads_rewards":"490957343192096_490963099858187",
+      "main_ads_banner":"ca-app-pub-5427140111479460/6133430404",
+      "main_ads_intertitial":"ca-app-pub-5427140111479460/6518489507",
+      "main_ads_natives":"ca-app-pub-5427140111479460/1351861105",
+      "main_ads_rewards":"ca-app-pub-5427140111479460/6169073512",
       
       "backup_ads_natives":"72b7916bc63f5f9f",
       "backup_ads_banner":"16265abe463512b8",
