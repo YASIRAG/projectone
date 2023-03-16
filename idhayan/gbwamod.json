@@ -1,0 +1,41 @@
+{
+  "Ads": [
+    {
+    "select_main_ads":"APPLOVIN-M",
+      "select_backup_ads":"APPLOVIN-D",
+      
+      "main_ads_banner":"16265abe463512b8",
+      "main_ads_intertitial":"e13a51a16e12b13e",
+      "main_ads_natives":"72b7916bc63f5f9f",
+      "main_ads_rewards":"70dcaee91ef44647",
+      
+      "backup_ads_natives":"650fca6418464189",
+      "backup_ads_banner":"650fca6418464189",
+      "backup_ads_intertitial":"12f2ab3b1e855475",
+      "backup_ads_rewards":"43d6090c496d7a9a",
+      
+      "open_ads_admob":"ca-app-pub-5427140111479460/279417238X",
+      
+      "open_ads_alien":"1",
+      "switch_open_ads":"1",
+      
+      "interval_intertitial": 1000,
+      
+      "initialize_sdk":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
+      "initialize_sdk_backup_ads":"4993af8652dbcb5e809e226b510a584404963a724583b85a",
+      
+      "high_paying_keyword_1": "skincare",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      
+      "status_app": "1",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+
+  ]
+}
