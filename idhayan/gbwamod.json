@@ -2,7 +2,7 @@
   "Ads": [
     {
     "select_main_ads":"ADMOB",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"UNITY",
       
       "main_ads_banner":"ca-app-pub-3447879687750451/4207613758",
       "main_ads_intertitial":"ca-app-pub-3447879687750451/7572143698",
