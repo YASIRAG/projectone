@@ -3,8 +3,8 @@
     {
      "select_main_ads": "ADMOB",
       "select_backup_ads":"ADMOB",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-3447879687750451/4690096961",
+      "main_ads_intertitial":"ca-app-pub-3447879687750451/3651513316",
       "main_ads_reward":"ca-app-pub-3940256099942544/1033173712",
       "native_for_admob":"1e10a17f01720770",
       "backup_ads_banner":"292cf054a47d2b62",
@@ -18,7 +18,7 @@
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
+      "status_app": "",
       "link_redirect": "https://"
     }
   ],
